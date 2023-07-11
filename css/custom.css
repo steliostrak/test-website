@@ -1,0 +1,51 @@
+
+span.menu-title {
+    font-size: 1.8rem;
+}
+
+@media only screen and (max-width: 768px) {
+    span.menu-title {
+        font-size: 1.6rem;
+    }
+}
+
+span.menu-price {
+    font-size: 1.6rem;
+}
+
+p.p-shortened {
+    font-size: 1.6rem;
+    max-width: 90%;
+}
+
+p.about-paragraph {
+    font-size: 1.8rem;
+}
+
+address {
+    margin-bottom: 1rem;
+}
+
+
+.contact-info {
+    font-size: 1.6rem;
+    margin-bottom: 2rem;
+}
+
+.contact-note {
+    margin-bottom: 1rem;
+}
+
+h5.contact-info-title {
+    font-size: 1.8rem;
+}
+
+@media only screen and (max-width: 768px) {
+    .contact-media-column {
+        display: none;
+    }
+    
+    .media-column {
+        margin-bottom: 8rem;
+    }
+}
